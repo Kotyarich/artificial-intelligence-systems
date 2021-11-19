@@ -1,0 +1,32 @@
+.metric-gun {
+    display: flex;
+    width: 50%;
+    text-align: left;
+}
+
+.metric-gun-index {
+    border: 1px solid black;
+    padding: 5px;
+    width: 8%;
+    text-align: center;
+}
+
+.metric-gun-model {
+    border: 1px solid black;
+    padding: 5px;
+    width: 80%;
+}
+
+.metric-table {
+    display: flex;
+    flex-direction: column;
+    margin-top: 40px;
+}
+
+.metric-row {
+    display: flex;
+}
+.metric-table-item {
+    min-width: 67px;
+    border: 1px solid black;
+}
